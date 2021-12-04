@@ -1,6 +1,6 @@
 - 👋 Hi, Eu sou Renan Carvalho.
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning SQL and Phyton
+- 🌱 I’m currently learning, JAVA, SQL and Phyton
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
