@@ -1,8 +1,8 @@
 - 👋 Hi, Eu sou Renan Carvalho.
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning, JAVA, SQL and Phyton
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning, JAVA.
+- 💞️ I’m looking to collaborate on aguarde atualizações
+- 📫 How to reach me https://www.linkedin.com/in/renansouzacarvalho/
 
 <!---
 rscar81/rscar81 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
